@@ -1,0 +1,282 @@
+$primary-color: #ef5b70;
+
+
+
+.checkout-wrapper {
+
+    width: 1150px;
+    margin: 0 auto;
+    
+
+}
+
+
+.checkout-content {
+
+margin-top: 50px;    
+display: grid;
+grid-template-columns: 600px 600px ;
+grid-template-rows: 300px 300px;
+
+
+
+}
+
+.shipping-adress {
+
+
+    padding: 25px;
+}
+
+.already {
+
+
+   
+    margin-left: 20px;
+
+}
+
+.check {
+
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+
+
+.ship-head {
+
+
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #222222;
+
+
+}
+
+
+.ship-head:hover {
+
+    color: $primary-color;
+    cursor: pointer;
+
+}
+
+
+.cheak-head {
+
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #222222;
+
+
+}
+
+.cheak-text {
+
+    font-family: Lato;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #b3b2b2;
+    padding-bottom: 10px;
+
+}
+
+.radio-btn-2 {
+
+    padding-bottom: 20px;
+}
+
+
+
+.radio-btn:hover {
+
+
+    cursor: pointer;
+    
+    }
+
+.radio-btn-2:hover {
+
+
+cursor: pointer;
+
+}
+
+
+.radio-text {
+
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #222222;
+    margin-left: 5px;
+
+
+}
+
+
+.fast-text {
+
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #b3b2b2;
+
+
+}
+
+.fast-text i {
+
+margin-right: 5px;
+font-size: 13px;
+line-height: 20px;
+font-weight: 400;
+color: #b3b2b2;
+
+
+}
+
+.cont-btn {
+
+margin-top: 30px;
+width: 180px;
+height: 50px;
+background-color: #ffffff;
+border: 1px solid #eaeaea;
+font-size: 14px;
+line-height: 1.2;
+font-weight: 700;
+text-transform: uppercase;
+color: #4a4a4a;
+}
+
+.cont-btn:hover {
+
+
+background-color: $primary-color;
+color: white;
+cursor: pointer;
+transition: 0.8s;
+
+
+}
+
+
+.forgot-btn {
+
+
+margin-top: 30px;
+width: 180px;
+height: 50px;
+background-color: #ffffff;
+border: none;
+font-size: 14px;
+line-height: 20px;
+font-weight: 400;
+color: #222222;
+
+}
+
+
+
+.forgot-btn:hover {
+
+color: $primary-color;
+cursor: pointer;
+transition: 0.8s;
+
+}
+
+
+.already {
+
+    margin-top: 45px;
+    padding: 25px;
+}
+
+
+.form-label {
+
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 600;
+    color: #222222;
+
+}
+
+
+.request-sim {
+
+
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: 400;
+    color: $primary-color;
+}
+
+.required-fileds {
+
+
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    color: $primary-color;
+
+}
+
+
+.login-form {
+
+    width: 390px;
+    height: 45px;
+    padding-left: 15px;
+    background-color: #ffffff;
+    border: 1px solid #eaeaea;
+
+
+}
+
+.login-btn-sec {
+
+display: flex;
+margin-top: 22px;
+
+}
+
+
+.login-btn {
+
+
+    width: 180px;
+    height: 50px;
+    background-color: #ffffff;
+    border: 1px solid #eaeaea;
+   
+
+}
+
+
+.login a {
+
+
+    text-align: center;
+}
+
+.chk-line {
+
+
+    margin-top: -50px;
+}
+
+.steps {
+
+padding: 25px;
+
+
+}
